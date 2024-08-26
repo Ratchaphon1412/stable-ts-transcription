@@ -22,6 +22,7 @@ HF_MODELS = {
     "large-v3": "openai/whisper-large-v3",
     "large": "openai/whisper-large-v3",
     "thonburi-large-v3": "biodatlab/whisper-th-large-v3-combined",
+    "thonburi-medium": "biodatlab/whisper-th-medium-combined",
 }
 
 
